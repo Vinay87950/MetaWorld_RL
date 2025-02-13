@@ -21,3 +21,8 @@
 
 Note - I had macOS so I faced coupled of problem trying to install mujoco and metaworld, might you not face it 
 
+## Results 
+**30000 episodes:**<br><br>
+  <img src="https://github.com/Vinay87950/MetaWorld_RL/blob/main/episode_gifs/episode_1.gif">
+
+
