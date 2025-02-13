@@ -1,3 +1,29 @@
+# MetaWorld Drawer-Close Task using PPO
+
+## Project Overview
+This project implements Proximal Policy Optimization (PPO) with Generalized Advantage Estimation (GAE) to solve the drawer-close task in MetaWorld. The implementation includes a complete actor-critic architecture, PPO training loop, and GAE computation.
+
+## About the environment
+Environment: MetaWorld
+MetaWorld is a benchmark environment for meta-reinforcement learning research, specifically focused on robot manipulation tasks. This project uses the MT1 (single-task) variant with the drawer-close-v2 task.
+
+## Drawer-Close Task
+- Objective: Train a robotic arm to close an open drawer
+- State Space: Robot joint positions and drawer state
+- Action Space: Continuous control of robot joint movements
+- Reward: Based on the robot's success in closing the drawer
+
+## Algorithm: Proximal Policy Optimization (PPO)
+PPO is a policy gradient method that uses clipping to prevent too large policy updates, making training more stable.
+
+- **Key Components :**
+  - Actor-Critic Architecture
+  - GAE (Generalized Advantage Estimation) that combines TD(λ) with eligibility traces
+
+
+
+
+
 1- So use this code - first create a conda env by - "conda create mujoco"
 
 2- activate the env - "conda activate mujoco"
