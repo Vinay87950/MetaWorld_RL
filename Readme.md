@@ -51,9 +51,9 @@ PPO is a policy gradient method that uses clipping to prevent too large policy u
 
 8. Then test the env if working on not named as **`test_env.py`** 
 
-9. Run "main.py" for the complete training 
+9. Run **`main.py`** for the complete training 
 
-10. For evaluation use "eval.py"
+10. For evaluation use **`eval.py`**
 
 
 
