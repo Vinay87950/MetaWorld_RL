@@ -49,7 +49,7 @@ PPO is a policy gradient method that uses clipping to prevent too large policy u
 
 7. pip install 'mujoco-py<2.2,>=2.1'
 
-8. Then test the env if working on not named as "test_env.py"
+8. Then test the env if working on not named as **`test_env.py`** 
 
 9. Run "main.py" for the complete training 
 
