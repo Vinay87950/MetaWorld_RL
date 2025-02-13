@@ -61,4 +61,9 @@ PPO is a policy gradient method that uses clipping to prevent too large policy u
 **30000 episodes:**<br><br>
   <img src="https://github.com/Vinay87950/MetaWorld_RL/blob/main/episode_gifs/episode_1.gif">
 
+  <img src="https://github.com/Vinay87950/MetaWorld_RL/blob/main/episode_gifs/episode_5.gif">
+  <img src="https://github.com/Vinay87950/MetaWorld_RL/blob/main/episode_gifs/episode_8.gif">
+
+  
+
 
